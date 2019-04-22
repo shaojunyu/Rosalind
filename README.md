@@ -1,2 +1,4 @@
 # Rosalind
-Solutions for Rosalind Problems
+Solutions for Rosalind Problems  
+
+http://rosalind.info
